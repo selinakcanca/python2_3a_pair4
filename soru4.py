@@ -24,3 +24,7 @@ P.S: Program çalıştıktan sonra eğer 'asalmi' değişkeninin değeri 0 kald�
 'asalmi'değişkeninin değerini kullanıcının girdiği sayı kendisinden ve 1'den başka sayıya tam bölündüğünde değiştiriyoruz.
 
 """
+
+
+
+
